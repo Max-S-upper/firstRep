@@ -3,3 +3,4 @@ First text for git, too easy!:)
 Third commit
 
 Change in master
+Change in testing-master
